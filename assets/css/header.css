@@ -12,13 +12,12 @@ header {
 }
 .logo {
     width: 100px;
-   
 }
 .logoimg {
     width: 80px;
     height: 80px;
     background-color: #b28756;
-    display: flex;
+    border-radius: 40px;
 }
 
 .menu {
@@ -48,4 +47,5 @@ header {
 .menu li a:hover,
 .menu .active a {
     border-bottom:5px solid #b28756;
+    color: #ccc;
 }
