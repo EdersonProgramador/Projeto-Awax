@@ -49,3 +49,16 @@ header {
     border-bottom:5px solid #b28756;
     color: #ccc;
 }
+
+.button {
+    display: inline-block;
+    background-color: #B28756;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600px;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
